@@ -51,7 +51,7 @@ The `ft_printf` function supports the following format specifiers:
 - Can be linked with other projects.
 
 ## 🛠️ Usage
-You can test i`ft_printf` by using it instead of the original printf.
+You can test `ft_printf` by using it instead of the original printf.
 
 ## 📜 License
 This project follows the [42 School](https://42.fr/) project requirements and is meant for educational purposes.
